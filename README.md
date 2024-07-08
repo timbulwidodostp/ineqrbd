@@ -1,6 +1,8 @@
 # ineqrbd
 Regression-based inequality decomposition Use ineqrbd With STATA 18
 
+https://www.youtube.com/watch?v=ptXIyB3lLSE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
